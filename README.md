@@ -1,1 +1,1 @@
-# 100-Days-Python
+This repository contains Python Assignments and Projects
